@@ -14,6 +14,7 @@ We use the [`virattt/financial-qa-10K`](https://huggingface.co/datasets/virattt/
 
 Each example follows an **Alpaca-style format**:
 
+Colab Notebook : https://colab.research.google.com/drive/1VEGf0q8qgzbtvoebEdm970aViIUAWs4p#scrollTo=q9DD3NIvS28J
 ```txt
 ### Instruction:
 What are Tesla's main risk factors mentioned in their 10-K filing?
